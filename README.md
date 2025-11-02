@@ -42,11 +42,11 @@ Unlike ordinary text files, SCL files are self‑describing XML documents and ar
 ## How to use
 You can watch a short walkthrough video that demonstrates the main features and typical workflows.
 
-- Watch the how-to video: [OakenSCD.mp4](OakenSCD.mp4)
 
-<video controls>
-    <source src="OakenSCD-894.mp4" type="video/mp4">
-    Your browser does not support the video tag. You can download the file directly: <a href="OakenSCD-Howto.mp4">OakenSCD-Howto.mp4</a>
-</video>
+
+https://github.com/user-attachments/assets/3b56ea29-afcd-4918-bb6d-810e1796bdaf
+
+
 
 Alternatively, download the MP4 and play it locally with your preferred video player.
+
